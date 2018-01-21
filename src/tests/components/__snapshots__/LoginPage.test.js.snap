@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Header correctly 1`] = `
+<div
+  className="box-layout"
+>
+  <div
+    className="box-layout__box"
+  >
+    <p>
+      Tag line for the Application
+    </p>
+    <button
+      className="login-button ripple"
+    >
+      Login with Google
+    </button>
+  </div>
+</div>
+`;
